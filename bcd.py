@@ -341,7 +341,7 @@ Compare['Method']=['Supervised','Semi Supervised','Unsupervised','Spectral Clust
 Compare
 
 
-data = pd.read_csv("HW6/data_banknote_authentication.txt",header=None)
+data = pd.read_csv("data_banknote_authentication.txt",header=None)
 
 data
 
